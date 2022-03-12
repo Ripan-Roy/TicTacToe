@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe Game
 
 ## Overview
 
